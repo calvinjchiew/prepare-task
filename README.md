@@ -30,5 +30,5 @@ Create a report highlighting up to 3 interesting findings from the datasets abov
 - Your report should look profesionally designed.
 
 ## Submission
-Email your report as a PDF file, as well as any working files (e.g. code you wrote) to ... 
-You should submit within 5 working days of receiving the email informing you of this task.
+- Email your report as a PDF file, as well as any working files you created (e.g. code you wrote), to ... 
+- You should submit within 5 working days of receiving the email informing you of this task.
