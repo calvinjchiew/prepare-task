@@ -9,12 +9,11 @@ More background information on malaria can be found [here](https://www.who.int/n
 ## Datasets
 You have been tasked to write a short report on the global fight against malaria using the following datasets from the World Health Organisation (WHO)'s [Global Health Observatory](https://www.who.int/data/gho). 
 
-No. | Section  | Links
+No. | Dataset  | Description
 --- | -------- | --------
-(1) | Lecture  | [Slides](lecture/Slides.pdf), [Handout](lecture/handout.md)
-(2) | Python   | [Dataset](python/births.csv), [Notebook](python/Python.ipynb), [Solutions](python/Python_Solutions.ipynb)
-(3) | Sample   | [Dataset](sample/lungsample.csv), [Notebook](sample/Lung.ipynb)
-(4) | Exercise | [Dataset](exercise/leukemia.csv), [Notebook](exercise/Leukemia.ipynb), [Solutions](exercise/Solutions.ipynb)
+(4) |  MALARIA_1STLINE_TREATED | Number of malaria cases treated with any first-line treatment courses (including artemisinin-based combination therapies (ACTs)
+(5) | MALARIA_IPTP3_COVERAGE   | Pregnant women attending antenatal care at least once and receiving at least 3 doses of Intermittent Preventive Treatment of Malaria for Pregnant Women (IPTp3) (%)
+(6) | MALARIA_ITN_COVERAGE   | Population with access to an insecticide-treated bed net (ITN) for malaria protection (%)
 
 ## Instructions
 Create a report highlighting up to 3 interesting findings from the datasets above aimed at the general public audience.
