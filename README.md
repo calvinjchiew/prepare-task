@@ -22,6 +22,7 @@ Create a report highlighting up to 3 interesting findings from the datasets abov
 - You should include at least 2 charts/figures in your report.
 - You should elaborate on your findings with text not exceeding 300 words.
 - Your report should look profesionally designed.
+- You do not have to use all the datasets; you can decide what you want to use based on the key messages or story you would like to present.
 
 ## Submission
 Submit
