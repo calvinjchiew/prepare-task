@@ -7,7 +7,7 @@ Malaria transmission occurs in 85 countries across five World Health Organisatio
 More background information on malaria can be found [here](https://www.who.int/news-room/fact-sheets/detail/malaria).
 
 ## Datasets
-You have been tasked to write a short report on the global fight against malaria using the following 6 datasets from the World Health Organisation (WHO)'s [Global Health Observatory](https://www.who.int/data/gho). They contain country-level information on malaria cases and deaths, and treatment and intervention coverage over time.
+You have been tasked to write a short report on the global fight against malaria using 6 datasets below from the World Health Organisation (WHO)'s [Global Health Observatory](https://www.who.int/data/gho). These datasets contain country-level information on malaria cases and deaths, and treatment and intervention coverage over time.
 
 No. | Dataset  | Description
 --- | -------- | --------
