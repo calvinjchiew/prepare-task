@@ -20,10 +20,10 @@ No. | Dataset  | Description
 
 In addition, you have the following data dictionaries to help you.
 
-No. | File  | Description
---- | -------- | --------
-(1) | COUNTRY_CODE  | Country codes
-(2) | UNREGION_CODE | UN region codes
+File  | Description
+-------- | --------
+COUNTRY_CODE  | Country codes
+UNREGION_CODE | UN region codes
 
 ## Instructions
 Create a report highlighting up to 3 interesting findings from the datasets above aimed at the general public audience.
