@@ -13,7 +13,7 @@ Malaria burden was heaviest in the WHO African Region, with an estimated 95% of 
 https://www.who.int/news-room/fact-sheets/detail/malaria
 
 ## Datasets
-You have been tasked to write a short report on the global fight against malaria. You have been given the following datasets from the World Health Organisation (WHO) Global Health Observatory. More background information on malaria can be found here.
+You have been tasked to write a short report on the global fight against malaria using the following datasets from the World Health Organisation (WHO) Global Health Observatory. More background information on malaria can be found here.
 
 ## Instructions
 Explore the datasets provided and choose 1-3 interesting findings you wish to highlight.
