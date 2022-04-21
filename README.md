@@ -26,15 +26,15 @@ No. | File  | Description
 (8) | [UNREGION_CODE](codes/UNREGION_CODE.csv) | UN region codes
 
 ## Instructions
-Create a report highlighting up to 3 interesting findings from the datasets above aimed at the general public audience.
+Create a report highlighting up to 3 key findings from the datasets above aimed at the general public audience.
 - You may use any software (e.g. Word, Excel, Powerpoint, Tableau, RStudio) and any programming language (e.g. R, Python).
-- You may use any statistical method if you deem it appropriate.
+- You may use any statistical method if you deem it appropriate (optional).
 - You should include at least 2 charts/figures in your report.
 - You should elaborate on your findings with text not exceeding 300 words.
-- You do not have to use all the datasets; you can choose what to use based on the key messages or story you would like to present.
+- You do not have to use all the datasets; you can choose what to use based on the main messages or story you wish to present.
 - Your report should look profesionally designed.
 
 ## Submission
 Email your report as a PDF file, as well as any working files you created (e.g. code written), to ...
 - You can send the files as attachments, or a link to the files hosted on your GitHub repository. 
-- You should submit within 5 working days of receiving the email informing you of this task.
+- There is no time limit for this task, but you should submit as soon as it is ready for us to continue processing your application.
