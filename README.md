@@ -2,7 +2,7 @@
 This task is for candidates applying to the position of Data Analyst / Data Scientist in the Programme for Research in Epidemic Preparedness and Response (PREPARE).
 
 ## Background
-Malaria transmission occurs in 85 countries across five World Health Organisation (WHO) regions. Disease burden is heaviest in the WHO African Region. In 2020, there were 241 million cases of malaria and 627,000 malaria deaths globally. The increases in malaria cases and deaths compared to 2019 were associated with disruption to services during the COVID-19 pandemic.
+Malaria transmission occurs in 85 countries across five World Health Organisation (WHO) regions. Disease burden is heaviest in the WHO African Region. In 2020, there were 241 million cases of malaria and 627,000 malaria deaths globally. The increases in malaria cases and deaths in 2020 compared to 2019 were associated with disruption to services during the COVID-19 pandemic.
 
 More background information on malaria can be found [here](https://www.who.int/news-room/fact-sheets/detail/malaria).
 
