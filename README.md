@@ -7,13 +7,15 @@ Malaria transmission occurs in 85 countries across five World Health Organisatio
 In 2020, there were 241 million cases of malaria and 627,000 malaria deaths globally. 
 In 2020, malaria deaths increased by 12% compared with 2019. The increases in malaria cases are deaths were associated with disruption to services during the COVID-19 pandemic.
 
-
-
-
-https://www.who.int/news-room/fact-sheets/detail/malaria
-
 ## Datasets
-You have been tasked to write a short report on the global fight against malaria using the following datasets from the World Health Organisation (WHO) Global Health Observatory. More background information on malaria can be found here.
+You have been tasked to write a short report on the global fight against malaria using the following datasets from the World Health Organisation (WHO) Global Health Observatory. More background information on malaria can be found [here](https://www.who.int/news-room/fact-sheets/detail/malaria).
+
+No. | Section  | Links
+--- | -------- | --------
+(1) | Lecture  | [Slides](lecture/Slides.pdf), [Handout](lecture/handout.md)
+(2) | Python   | [Dataset](python/births.csv), [Notebook](python/Python.ipynb), [Solutions](python/Python_Solutions.ipynb)
+(3) | Sample   | [Dataset](sample/lungsample.csv), [Notebook](sample/Lung.ipynb)
+(4) | Exercise | [Dataset](exercise/leukemia.csv), [Notebook](exercise/Leukemia.ipynb), [Solutions](exercise/Solutions.ipynb)
 
 ## Instructions
 Create a report highlighting up to 3 interesting findings from the datasets above aimed at the general public reader.
