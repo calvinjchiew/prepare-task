@@ -32,4 +32,4 @@ Create a report highlighting up to 3 key findings from the datasets above aimed 
 ## Submission
 Email your report as a PDF file, as well as any working files you created (e.g. code written), to ...
 - You can send the files as attachments, or a link to the files hosted on your GitHub repository. 
-- Although there is no time limit for this task, you should submit as soon as it is ready for us to continue processing your application.
+- There is no time limit for this task, but you should submit as soon as it is ready for us to continue processing your application.
