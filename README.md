@@ -16,11 +16,12 @@ https://www.who.int/news-room/fact-sheets/detail/malaria
 You have been tasked to write a short report on the global fight against malaria using the following datasets from the World Health Organisation (WHO) Global Health Observatory. More background information on malaria can be found here.
 
 ## Instructions
-Explore the datasets provided and choose 1-3 interesting findings you wish to highlight.
-- You may use any software (e.g. Word, Excel, Powerpoint, Tableau) and any programming language (e.g. R, Python).
-- You may use any statistical method if you deem it necessary.
-- You should elaborate on your findings in the report with text not exceeding 300 words.
-- Your report should look profesionally done.
+Create a report highlighting 1-3 interesting findings from the datasets provided.
+- You may use any software (e.g. Word, Excel, Powerpoint, Tableau, RStudio) and any programming language (e.g. R, Python).
+- You may use any statistical method if you deem it appropriate.
+- You should include at least 2 different charts/figures in your report.
+- You should elaborate on your findings with text not exceeding 300 words.
+- Your report should look profesionally designed.
 
 ## Submission
 Submit
