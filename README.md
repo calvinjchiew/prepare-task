@@ -35,6 +35,6 @@ Create a report highlighting up to 3 interesting findings from the datasets abov
 - Your report should look profesionally designed.
 
 ## Submission
-- Email your report as a PDF file, as well as any working files you created (e.g. code written), to ...
-- You can email the files as attachments, or a link to the files on your GitHub repository. 
+Email your report as a PDF file, as well as any working files you created (e.g. code written), to ...
+- You can send the files as attachments, or a link to the files hosted on your GitHub repository. 
 - You should submit within 5 working days of receiving the email informing you of this task.
