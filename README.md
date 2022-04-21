@@ -18,7 +18,7 @@ No. | Dataset  | Description
 (5) | [IPTP3_COVERAGE](data/IPTP3_COVERAGE.csv) | Pregnant women attending antenatal care at least once and receiving at least 3 doses of Intermittent Preventive Treatment of Malaria for Pregnant Women (IPTp3) (%)
 (6) | [ITN_COVERAGE](data/ITN_COVERAGE.csv) | Population with access to an insecticide-treated bed net (ITN) for malaria protection (%)
 
-- In addition, you have this data dictionary of country codes (and WHO regions) to help you: [COUNTRY_CODE](codes/COUNTRY_CODE.csv).
+In addition, you have this data dictionary of country codes (and WHO regions) to help you: [COUNTRY_CODE](codes/COUNTRY_CODE.csv).
 
 ## Instructions
 Create a report highlighting up to 3 key findings from the datasets above aimed at the general public audience.
