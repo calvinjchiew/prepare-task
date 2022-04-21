@@ -17,10 +17,10 @@ You have been tasked to write a short report on the global fight against malaria
 
 ## Instructions
 Explore the datasets provided and choose 1-3 interesting findings you wish to highlight.
-- You may use any software (e.g. Word, Excel, Powerpoint, Tableau) and any programming language (e.g. R, Python)
-- You may use any statistical method if necessary
-- You should elaborate on your findings in the report with text not exceeding 300 words
-- Your report should look profesionally done
+- You may use any software (e.g. Word, Excel, Powerpoint, Tableau) and any programming language (e.g. R, Python).
+- You may use any statistical method if you deem it necessary.
+- You should elaborate on your findings in the report with text not exceeding 300 words.
+- Your report should look profesionally done.
 
 ## Submission
 Submit
