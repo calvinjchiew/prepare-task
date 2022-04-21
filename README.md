@@ -7,11 +7,14 @@ Malaria transmission occurs in 85 countries across five World Health Organisatio
 More background information on malaria can be found [here](https://www.who.int/news-room/fact-sheets/detail/malaria).
 
 ## Datasets
-You have been tasked to write a short report on the global fight against malaria using the following datasets from the World Health Organisation (WHO)'s [Global Health Observatory](https://www.who.int/data/gho). 
+You have been tasked to write a short report on the global fight against malaria using the following 6 datasets from the World Health Organisation (WHO)'s [Global Health Observatory](https://www.who.int/data/gho). 
 
 No. | Dataset  | Description
 --- | -------- | --------
-(4) |  MALARIA_1STLINE_TREATED | Number of malaria cases treated with any first-line treatment courses (including artemisinin-based combination therapies (ACTs)
+(1) |  MALARIA_1STLINE_TREATED | Number of malaria cases treated with any first-line treatment courses (including artemisinin-based combination therapies (ACTs))
+(2) |  MALARIA_1STLINE_TREATED | Number of malaria cases treated with any first-line treatment courses (including artemisinin-based combination therapies (ACTs))
+(3) |  MALARIA_1STLINE_TREATED | Number of malaria cases treated with any first-line treatment courses (including artemisinin-based combination therapies (ACTs))
+(4) |  MALARIA_1STLINE_TREATED | Number of malaria cases treated with any first-line treatment courses (including artemisinin-based combination therapies (ACTs))
 (5) | MALARIA_IPTP3_COVERAGE   | Pregnant women attending antenatal care at least once and receiving at least 3 doses of Intermittent Preventive Treatment of Malaria for Pregnant Women (IPTp3) (%)
 (6) | MALARIA_ITN_COVERAGE   | Population with access to an insecticide-treated bed net (ITN) for malaria protection (%)
 
