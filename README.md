@@ -11,14 +11,14 @@ You have been tasked to write a short report on the global fight against malaria
 
 No. | Dataset  | Description
 --- | -------- | --------
-(1) |  MALARIA_TOTAL_CASES | Total number of malaria cases
-(2) |  MALARIA_EST_INCIDENCE | Estimated malaria incidence (per 1000 population at risk)
-(3) |  MALARIA_EST_MORTALITY | Estimated malaria mortality rate (per 100 000 population)
-(4) |  MALARIA_1STLINE_TREATED | Number of malaria cases treated with any first-line treatment courses (including artemisinin-based combination therapies (ACTs))
-(5) | MALARIA_IPTP3_COVERAGE   | Pregnant women attending antenatal care at least once and receiving at least 3 doses of Intermittent Preventive Treatment of Malaria for Pregnant Women (IPTp3) (%)
-(6) | MALARIA_ITN_COVERAGE   | Population with access to an insecticide-treated bed net (ITN) for malaria protection (%)
+(1) |  TOTAL_CASES | Total number of malaria cases
+(2) |  EST_INCIDENCE | Estimated malaria incidence (per 1000 population at risk)
+(3) |  EST_MORTALITY | Estimated malaria mortality rate (per 100,000 population)
+(4) |  1STLINE_TREATED | Number of malaria cases treated with any first-line treatment courses (including artemisinin-based combination therapies (ACTs))
+(5) | IPTP3_COVERAGE   | Pregnant women attending antenatal care at least once and receiving at least 3 doses of Intermittent Preventive Treatment of Malaria for Pregnant Women (IPTp3) (%)
+(6) | ITN_COVERAGE   | Population with access to an insecticide-treated bed net (ITN) for malaria protection (%)
 
-In addition, you have the following to help you.
+In addition, you have the following meta-data to help you.
 
 ## Instructions
 Create a report highlighting up to 3 interesting findings from the datasets above aimed at the general public audience.
