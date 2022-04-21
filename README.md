@@ -17,7 +17,7 @@ No. | Section  | Links
 (4) | Exercise | [Dataset](exercise/leukemia.csv), [Notebook](exercise/Leukemia.ipynb), [Solutions](exercise/Solutions.ipynb)
 
 ## Instructions
-Create a report highlighting up to 3 interesting findings from the datasets above aimed at the general public reader.
+Create a report highlighting up to 3 interesting findings from the datasets above aimed at the general public audience.
 - You may use any software (e.g. Word, Excel, Powerpoint, Tableau, RStudio) and any programming language (e.g. R, Python).
 - You may use any statistical method if you deem it appropriate.
 - You should include at least 2 charts/figures in your report.
