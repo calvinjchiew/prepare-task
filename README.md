@@ -21,7 +21,7 @@ No. | Dataset  | Description
 In addition, you have this data dictionary of country codes (and WHO regions) to help you: [COUNTRY_CODE](codes/COUNTRY_CODE.csv).
 
 ## Instructions
-Create a report highlighting up to 3 key findings from the datasets above aimed at the general public audience.
+Create a report highlighting up to 3 key findings from the data above aimed at the general public audience.
 - You may use any software (e.g. Word, Excel, Powerpoint, Tableau, RStudio) and any programming language (e.g. R, Python).
 - You may use any statistical method if you deem it appropriate (optional).
 - You should include at least 2 charts/figures in your report.
