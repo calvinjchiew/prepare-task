@@ -11,7 +11,7 @@ You have been tasked to write a short report on the global fight against malaria
 
 No. | Dataset  | Description
 --- | -------- | --------
-(1) |  [TOTAL_CASES](data/TOTAL_CASES.csv) | Total number of malaria cases
+(1) |  [TOTAL_CASES](data/TOTAL_CASES.csv) | Number of malaria cases
 (2) |  [EST_INCIDENCE](data/EST_INCIDENCE.csv) | Estimated malaria incidence (per 1000 population at risk)
 (3) |  [EST_MORTALITY](data/EST_MORTALITY.csv) | Estimated malaria mortality rate (per 100,000 population)
 (4) |  [1STLINE_TREATED](data/1STLINE_TREATED.csv) | Number of malaria cases treated with any first-line treatment courses (including artemisinin-based combination therapies (ACTs))
