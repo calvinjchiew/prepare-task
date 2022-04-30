@@ -30,6 +30,6 @@ Create a report highlighting up to 3 key findings from the data above aimed at t
 - Your report should look profesionally designed.
 
 ## Submission
-Email your report as a PDF file, as well as any working files you created (e.g. code written), by replying to the email informing you of this task.
-- You can send the files as attachments, or a link to the files hosted on your GitHub repository. 
+Submit your report as a PDF file, as well as any working files you created (e.g. code written), by replying to the email informing you of this task.
+- You can email the files as attachments, or send a link to the files hosted on your GitHub repository. 
 - There is no time limit for this task, but you should submit as soon as it is ready for us to continue processing your application.
